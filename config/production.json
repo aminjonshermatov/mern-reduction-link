@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "aminjon mern",
+    "mongoURI": "mongodb://aminjon:aminjon5906@cluster0-shard-00-00.rfssl.mongodb.net:27017,cluster0-shard-00-01.rfssl.mongodb.net:27017,cluster0-shard-00-02.rfssl.mongodb.net:27017/app?ssl=true&replicaSet=atlas-v37u7r-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
